@@ -195,6 +195,9 @@
   .m-auto {
     margin: auto;
   }
+  .mt-500 {
+    margin-top: calc(var(--spacing) * 500);
+  }
   .mt-\[-10px\] {
     margin-top: -10px;
   }
@@ -342,11 +345,17 @@
   .w-\[300px\] {
     width: 300px;
   }
+  .w-\[350px\] {
+    width: 350px;
+  }
   .w-\[370px\] {
     width: 370px;
   }
   .w-\[380px\] {
     width: 380px;
+  }
+  .w-\[400px\] {
+    width: 400px;
   }
   .w-\[500px\] {
     width: 500px;
